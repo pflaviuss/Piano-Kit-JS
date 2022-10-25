@@ -1,2 +1,3 @@
+
 # Piano-Kit-Js
-Drum kit following Wes Bos's yt vid
+This is a project made by following the steps of Wes Bos on YT, learning to manipulate the DOM. 
