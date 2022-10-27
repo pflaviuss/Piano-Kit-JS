@@ -1,3 +1,4 @@
 
 # Piano-Kit-Js
-This is a project made by following the steps of Wes Bos on YT, learning to manipulate the DOM. 
+This project was made learning to manipulate the DOM, following theOdinProject steps. 
+This is basically a simple project, making a little piano with only 6 keys for the moment, but I'm going to implement more of them soon.
